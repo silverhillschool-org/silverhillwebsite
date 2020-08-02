@@ -1393,4 +1393,8 @@ form label {
   opacity: 0;
 }
 
+.space-top{
+  padding-top: 7em 0;
+  clear: both;
+}
 /*# sourceMappingURL=style.css.map */
