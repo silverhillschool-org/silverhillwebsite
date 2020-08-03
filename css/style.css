@@ -1397,4 +1397,23 @@ form label {
   padding: 7em 0;
   clear: both;
 }
+
+.space-small{
+  padding: 1em 0;
+}
+
+footer{
+  background-color: #0b1c2c;
+  color: white;
+}
+
+footer h4{
+  color: white;
+}
+
+.title-border{
+  border-bottom: #46b8da solid 2px;
+  padding-bottom: 5px;
+}
+
 /*# sourceMappingURL=style.css.map */
